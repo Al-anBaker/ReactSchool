@@ -1,2 +1,0 @@
-# ReactSchool
-React School
